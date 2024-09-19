@@ -88,6 +88,8 @@ Python Learning Journey
 
 
 ## Learnings
+
+19 September 2024
 - a array is called "list" in python.
 - we can get the index of an item by cally listName.index(itemName). eg fruits = ["apple", "banana", "cherry"] fruits.index("banana")
 - define a function by def command. eg: def my_function():
