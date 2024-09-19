@@ -1,6 +1,5 @@
 ### ------ TODO APP IN PYTHON ------ ###
 
-# Step 1: Create a new todo
 myTodo = ["Coding"]
 
 def add_todo():
