@@ -85,3 +85,11 @@ Python Learning Journey
 
 ## Python Cheat Sheet
 65. [Python Cheat Sheet](#python-cheat-sheet)
+
+
+## Learnings
+- a array is called "list" in python.
+- we can get the index of an item by cally listName.index(itemName). eg fruits = ["apple", "banana", "cherry"] fruits.index("banana")
+- define a function by def command. eg: def my_function():
+- call a function by function name. eg: my_function()
+- we can loop item with for and while loop. eg: for x in fruits: print(x) or i = 0 while i < 6: print(i) i += 1
